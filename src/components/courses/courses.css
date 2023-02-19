@@ -1,0 +1,7 @@
+.course{
+    transition: box-shadow .3s;
+}
+
+.course:hover {
+    box-shadow: 1px 1px 10px 2px cornsilk; 
+  }

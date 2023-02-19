@@ -1,0 +1,7 @@
+.body_pic{
+    background-image: url('/home/ali-jad/Videos/React/quranic-verses/src/images/body-images/body2.jpg');
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size:auto;
+    z-index: 2;
+}
